@@ -1,4 +1,5 @@
-![abhigit](https://user-images.githubusercontent.com/58160340/153740902-78bd67e2-d6c9-4a18-b30c-c52f0c280341.jpg)
+![abhigit](https://user-images.githubusercontent.com/58160340/153741084-6c32ee51-882a-4144-b6ee-575222520411.jpg)
+
 
 
 ###    Hi, I'm Abhimanyu Kumar!👋
