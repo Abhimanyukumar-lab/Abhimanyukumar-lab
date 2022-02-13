@@ -5,7 +5,7 @@
  - ✨Favorite Tech:-Java,Javascript,React,Angular,NodeJs,Python,Php...
   -  🤔 I'm looking for job fresher java Developer
  -  ❤️ Newly found love in Fullstack Developer
-     ✉️ abhimanyukumar671@gmail.com
+  - ✉️ abhimanyukumar671@gmail.com
   -   🎨 Portfolio: https://2rgingkmfkdytbipiifjkw-on.drv.tw/www.abhimanyu.com/website/
   - 💼 LinkedIn:-https://www.linkedin.com/in/abhimanyu-kumar-261367200/
   -  📱Mobile Number:- 9534944195
