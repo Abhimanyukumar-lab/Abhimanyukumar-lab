@@ -1,5 +1,5 @@
 
-![abhigit](https://user-images.githubusercontent.com/58160340/153741084-6c32ee51-882a-4144-b6ee-575222520411.jpg)
+![abhigit](https://user-images.githubusercontent.com/58160340/196400871-70e68504-2cb6-434c-b189-825a9b3b022d.JPG)
 ###    Hi, I'm Abhimanyu Kumar!👋
  - 🔥Java Developer,🔥Fullstack Developer,🔥Php
  - ✨Favorite Tech:-Java,Javascript,React,Angular,NodeJs,Python,Php...
