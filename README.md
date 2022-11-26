@@ -6,7 +6,7 @@
   -  🤔 I'm looking for job fresher java Developer
  -  ❤️ Newly found love in Fullstack Developer
   - ✉️ abhimanyukumar671@gmail.com
-  - 🕍 Demo Template:https://visionary-semolina-44d0ef.netlify.app/
+  - 🕍 Demo Template: https://visionary-semolina-44d0ef.netlify.app/
   -   🎨 Portfolio: https://2rgingkmfkdytbipiifjkw-on.drv.tw/www.abhimanyu.com/website/
   - 💼 LinkedIn:-https://www.linkedin.com/in/abhimanyu-kumar-261367200/
   -  📱Mobile Number:- 9534944195
