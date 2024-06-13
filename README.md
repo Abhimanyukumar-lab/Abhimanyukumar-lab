@@ -1,5 +1,3 @@
-
-<a href="https://app.daily.dev/abhimanyu671"><img src="https://api.daily.dev/devcards/v2/qzGT6Tll6SswVpR9xigyt.png?type=wide&r=8gq" width="652" alt="Abhimanyu Kumar's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Abhimanyu Kumar</h1>
 <h3 align="center">"A passionate fullstack java developer from India"</h3>
 
@@ -64,6 +62,9 @@
 
 ### Github Status
 ![Abhimanyu Kumar github stats](https://github-readme-stats.vercel.app/api?username=Abhimanyukumar-lab&bg_color=0,3E5151,ffca8d&title_color=fff&text_color=fff)
+
+### Dev Card💻
+<a href="https://app.daily.dev/abhimanyu671"><img src="https://api.daily.dev/devcards/v2/qzGT6Tll6SswVpR9xigyt.png?type=wide&r=8gq" width="652" alt="Abhimanyu Kumar's Dev Card"/></a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrajsharma&" alt="omrajsharma" /></p> -->
 
